@@ -70,7 +70,13 @@
 ![Github Streaks](https://nirzak-streak-stats.vercel.app/?user=azis14&theme=tokyonight&hide_border=false)
 
 
-## 📂 My Highlights
+## 📂 Repo Highlights
 
 [![Cloud Brain](https://github-readme-stats.vercel.app/api/pin/?username=azis14&repo=cloud-brain&theme=github_dark_dimmed)](https://github.com/azis14/cloud-brain)
 [![DevTo Roaster](https://github-readme-stats.vercel.app/api/pin/?username=azis14&repo=devto-roaster&theme=github_dark_dimmed)](https://github.com/azis14/devto-roaster)
+
+## ✒️ Writing Highlights
+
+[![Hexagonal Architecture in a Nutshell](https://devto-badge.vercel.app/api?url=https://dev.to/muhammadazis/hexagonal-architecture-in-a-nutshell-22bd&theme=dark)](https://dev.to/muhammadazis/hexagonal-architecture-in-a-nutshell-22bd)
+[![Few Ways to Optimize API Response Time](https://devto-badge.vercel.app/api?url=https://dev.to/muhammadazis/few-ways-to-optimize-api-response-time-p3f&theme=dark)](https://dev.to/muhammadazis/few-ways-to-optimize-api-response-time-p3f)
+[![A Journey to be a Pragmatic Programmer](https://devto-badge.vercel.app/api?url=https://dev.to/muhammadazis/a-journey-to-be-a-pragmatic-programmer-524m&theme=dark)](https://dev.to/muhammadazis/a-journey-to-be-a-pragmatic-programmer-524m)
