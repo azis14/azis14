@@ -6,20 +6,23 @@
   <a href="https://azis14.my.id">
     <img src="https://custom-icon-badges.demolab.com/badge/Website-222?logo=globe&logoColor=fff" alt="Personal Website Badge"/>
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/m-azis/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)" alt="LinkedIn Badge"/>
+  <a href="https://linkedin.com/in/m-azis/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge"/>
   </a>
   <a href="https://dev.to/muhammadazis">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)" alt="DevTo Badge"/>
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white" alt="DevTo Badge"/>
   </a>
   <a href="https://medium.com/@muhammadazishusein">
-    <img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)" alt="Medium Badge"/>
+    <img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
   <a href="https://www.threads.com/@muhammadazishusein">
-    <img src="https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)" alt="Threads Badge"/>
+    <img src="https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white" alt="Threads Badge"/>
   </a>
   <a href="https://www.instagram.com/muhammadazishusein">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://github.com/sponsors/azis14">
+    <img src="https://img.shields.io/badge/Sponsor-❤-ea4aaa?logo=github-sponsors" alt="Sponsor Badge"/>
   </a>
   </div>
   <br/>
@@ -74,9 +77,11 @@
 
 [![Cloud Brain](https://github-readme-stats.vercel.app/api/pin/?username=azis14&repo=cloud-brain&theme=github_dark_dimmed)](https://github.com/azis14/cloud-brain)
 [![DevTo Roaster](https://github-readme-stats.vercel.app/api/pin/?username=azis14&repo=devto-roaster&theme=github_dark_dimmed)](https://github.com/azis14/devto-roaster)
+[![DevTo Badge](https://github-readme-stats.vercel.app/api/pin/?username=azis14&repo=devto-badge&theme=github_dark_dimmed)](https://github.com/azis14/devto-badge)
 
 ## ✒️ Writing Highlights
 
 [![Hexagonal Architecture in a Nutshell](https://devto-badge.vercel.app/api?url=https://dev.to/muhammadazis/hexagonal-architecture-in-a-nutshell-22bd&theme=dark)](https://dev.to/muhammadazis/hexagonal-architecture-in-a-nutshell-22bd)
+[![The Better Approach To Learn New Things](https://devto-badge.vercel.app/api?url=https://dev.to/muhammadazis/the-better-approach-to-learn-new-things-a92&theme=dark)](https://dev.to/muhammadazis/the-better-approach-to-learn-new-things-a92)
 [![Few Ways to Optimize API Response Time](https://devto-badge.vercel.app/api?url=https://dev.to/muhammadazis/few-ways-to-optimize-api-response-time-p3f&theme=dark)](https://dev.to/muhammadazis/few-ways-to-optimize-api-response-time-p3f)
 [![A Journey to be a Pragmatic Programmer](https://devto-badge.vercel.app/api?url=https://dev.to/muhammadazis/a-journey-to-be-a-pragmatic-programmer-524m&theme=dark)](https://dev.to/muhammadazis/a-journey-to-be-a-pragmatic-programmer-524m)
