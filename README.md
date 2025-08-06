@@ -78,6 +78,7 @@
 [![Cloud Brain](https://github-readme-stats.vercel.app/api/pin/?username=azis14&repo=cloud-brain&theme=github_dark_dimmed)](https://github.com/azis14/cloud-brain)
 [![DevTo Roaster](https://github-readme-stats.vercel.app/api/pin/?username=azis14&repo=devto-roaster&theme=github_dark_dimmed)](https://github.com/azis14/devto-roaster)
 [![DevTo Badge](https://github-readme-stats.vercel.app/api/pin/?username=azis14&repo=devto-badge&theme=github_dark_dimmed)](https://github.com/azis14/devto-badge)
+[![Cook Helper](https://github-readme-stats.vercel.app/api/pin/?username=azis14&repo=cook-helper&theme=github_dark_dimmed)](https://github.com/azis14/cook-helper)
 
 ## ✒️ Writing Highlights
 
@@ -85,3 +86,8 @@
 [![The Better Approach To Learn New Things](https://devto-badge.vercel.app/api?url=https://dev.to/muhammadazis/the-better-approach-to-learn-new-things-a92&theme=dark)](https://dev.to/muhammadazis/the-better-approach-to-learn-new-things-a92)
 [![Few Ways to Optimize API Response Time](https://devto-badge.vercel.app/api?url=https://dev.to/muhammadazis/few-ways-to-optimize-api-response-time-p3f&theme=dark)](https://dev.to/muhammadazis/few-ways-to-optimize-api-response-time-p3f)
 [![A Journey to be a Pragmatic Programmer](https://devto-badge.vercel.app/api?url=https://dev.to/muhammadazis/a-journey-to-be-a-pragmatic-programmer-524m&theme=dark)](https://dev.to/muhammadazis/a-journey-to-be-a-pragmatic-programmer-524m)
+
+## 📮 Support
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-E5E5E5?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://clicky.id/azis14/support/coffee)
+[![More About Me](https://img.shields.io/badge/More%20About%20Me-E5E5E5?style=for-the-badge&logo=about.me&logoColor=black)](https://www.azis14.my.id/)
