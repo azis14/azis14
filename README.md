@@ -38,9 +38,7 @@
 </div>
 
 ## 💻 Languages and Tools
-## 💻 Languages and Tools
-
-<p align="center">
+<div align="center" style="display: flex; flex-wrap: nowrap; overflow-x: auto; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
