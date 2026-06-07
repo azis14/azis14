@@ -68,7 +68,7 @@
 ## 📈 GitHub Stats -->
 [![GitHub Stats](https://azis-git-stats.vercel.app/api?username=azis14&show_icons=true&theme=github_dark_dimmed&hide_rank=true&card_width=320)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://azis-git-stats.vercel.app/api/top-langs/?username=azis14&langs_count=6&layout=compact&card_width=320&theme=github_dark_dimmed&hide=Shell,HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ![Github Streaks](https://nirzak-streak-stats.vercel.app/?user=azis14&theme=tokyonight&hide_border=false) -->
+![Github Streaks](https://azis-git-streaks.vercel.app/?user=azis14&theme=tokyonight&hide_border=false)
 
 
 ## 📂 Repo Highlights
