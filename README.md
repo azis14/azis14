@@ -65,7 +65,7 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sentry/sentry-original.svg" title="Sentry" alt="Sentry" width="40" height="40"/> |
 
 
-## 📈 GitHub Stats -->
+## 📈 GitHub Stats
 [![GitHub Stats](https://azis-git-stats.vercel.app/api?username=azis14&show_icons=true&theme=github_dark_dimmed&hide_rank=true&card_width=320)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://azis-git-stats.vercel.app/api/top-langs/?username=azis14&langs_count=6&layout=compact&card_width=320&theme=github_dark_dimmed&hide=Shell,HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
 ![Github Streaks](https://azis-git-streaks.vercel.app/?user=azis14&theme=tokyonight&hide_border=false)
